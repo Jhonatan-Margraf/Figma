@@ -1,0 +1,1 @@
+Criamos uma landpage de captura que leva para uma tela de cadastro. A página principal divulga que estão abertas as inscrições para uma escolinha de futsal feminino e o botão de inscrição leva a uma tela na qual o usuário insere seus dados para se inscrever nessa escolinha.
